@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @ClassName ApiApplication
- * @Description TODO
+ * @Description springboot 启动类
  * @Author hxd
  * @Date 2020/5/26 9:55
  * @Version 1.0

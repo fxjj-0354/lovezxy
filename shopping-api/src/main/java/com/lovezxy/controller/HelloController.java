@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @ClassName HelloController
- * @Description TODO
+ * @Description 测试类
  * @Author hxd
  * @Date 2020/5/26 10:06
  * @Version 1.0
